@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Jon! 
+Hi! My name is Jon! <br/>
 Hopefully, this READ.ME will showcase a little about what I can do.
 
 ## 💻 Currently Working On:
