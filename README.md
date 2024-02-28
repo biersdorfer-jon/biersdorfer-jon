@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi! My name is Jon! Hopefully, this READ.ME will showcase a little about what I can do.
 
+## 💻 Currently Working On:
+E-Commerce Page utilizing React, Tailwind, Prisma, MongoDB, and NextAuth.
+Class Database and Hub constructed from React, Styled-Components, and MongoDB.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biersdorfer.jon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jon-biersdorfer) 
