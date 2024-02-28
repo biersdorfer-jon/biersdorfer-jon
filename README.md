@@ -3,7 +3,7 @@ Hi! My name is Jon! <br/>
 Hopefully, this READ.ME will showcase a little about what I can do.
 
 ## 💻 Currently Working On:
-E-Commerce Page utilizing React, Tailwind, Prisma, MongoDB, and NextAuth.
+E-Commerce Page utilizing React, Tailwind, Prisma, MongoDB, and NextAuth. <br/>
 Class Database and Hub constructed from React, Styled-Components, and MongoDB.
 
 ## 🌐 Socials:
