@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! My name is Jon! Hopefully, this READ.ME will showcase a little about what I can do.
+Hi! My name is Jon! 
+Hopefully, this READ.ME will showcase a little about what I can do.
 
 ## 💻 Currently Working On:
 E-Commerce Page utilizing React, Tailwind, Prisma, MongoDB, and NextAuth.
